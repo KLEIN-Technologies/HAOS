@@ -10,4 +10,9 @@ This project is dedicated to the development of 'Chicken Broiler's Control Panel
 1. Homeassistant Platform
 
 ## Features
-### Climate Control
+### 🌡 Climate Control Unit
+  1. Temperature
+  2. Humidity
+  3. Heat Index
+  4. Environmental
+     1.  CO2
