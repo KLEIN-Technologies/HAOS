@@ -1,2 +1,4 @@
 ## Chicken Broilers
-This Project is dedicated to the development of Chicken Broiler's Control Panel
+This project is dedicated to the development of 'Chicken Broiler's Control Panel'
+
+# HAOS
