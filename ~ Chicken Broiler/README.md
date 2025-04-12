@@ -1,4 +1,13 @@
 # Chicken Broilers
-This project is dedicated to the development of 'Chicken Broiler's Control Panel'
+This project is dedicated to the development of 'Chicken Broiler's Control Panels'
 
-## HAOS
+## Hardware
+1. OrangePi Zero 3 (2GB Memory) SBC
+2. SD-Card 64GB
+3. ESP32-S MCUs for Climate Control Units & Actuators Control
+
+## Software
+1. Homeassistant Platform
+
+## Features
+### Climate Control
