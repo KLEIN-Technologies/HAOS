@@ -1,9 +1,10 @@
 ---
-name: 🐞 Bug Report
+name: "\U0001F41E Bug Report"
 about: Report a problem you're facing when testing the code
 title: "[BUG] "
 labels: bug
-assignees: YOUR_USERNAME
+assignees: ''
+
 ---
 
 ## 🐛 Problem Description
