@@ -1,12 +1,3 @@
----
-name: "\U0001F4A1 New Ideas"
-about: Propose new ideas for software improvement
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### 💡 Idea Summary
 Brief description of the idea.
 
