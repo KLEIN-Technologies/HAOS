@@ -1,5 +1,5 @@
 # HAOS
-DevOps (Automation, Control Panel etc)
+DevOps (Automation, Control Panel etc..)
 
 # Description
 1. This repository aims for the development of Control Panels in (Poultry - Livestock - Fish Aquaculture - Hydroponic Systems)
